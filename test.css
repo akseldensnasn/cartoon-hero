@@ -1,23 +1,75 @@
-body{
-	
-	
+html, body {
+font-family: Arial, sans-serif;
+margin: 0;
+
+
 }
 
-<style type="text/css">
-	h1{
-color: green;
-font-size: 30px
-	}
-	h2{
 
-		color: pink;
-		
-	}
 
-	.small{
 
-		font size: 60px
-		font style:italic;
-		color: pink;	
 
-	}
+
+
+
+header{
+background-color:#bd0000
+
+
+}
+
+h1{
+font-size: 70px;
+color: white;
+font-weight: bold;
+
+}
+
+header img{
+
+	border-radius: 300px;
+
+	 border-radius: 50%;
+    border: 17px solid #0600bd;
+}
+.start{
+text-align: center;
+
+}
+
+
+
+
+.wrapper{
+font-family: Arial, sans-serif;
+
+}
+
+.content{
+font-family: Arial, sans-serif;
+max-width: 10000px;
+margin: 0 auto;
+}
+
+.runes-venner{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: bold;
+}
+
+a{
+color: red;
+text-decoration: none;
+}
+
+footer{
+width: 100%
+height:auto;
+margin:auto;
+background-color: #272727;
+padding: 20px 0px;
+color: #dfdfdf;
+text-align: center;
+
+}
+header
